@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Josué Aravena
+# 👋 ¡Hola! Soy Josué Rosales
 
 ```
 Full Stack Developer | Python | PHP | Java | JavaScript | React | Next.js | NestJS
